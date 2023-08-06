@@ -14,7 +14,6 @@
 [♟️ Chess Game](https://play-chessgame.surge.sh)
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
-![Screenshot from 2023-08-07 00-25-02](https://github.com/Bild96/chess-game/assets/52472445/54561fc6-ffec-4832-ad5e-047ab68557da)
 
 ![Screenshot from 2023-08-07 00-25-27](https://github.com/Bild96/chess-game/assets/52472445/40d4614c-5813-44d0-ad35-f9f4c7364dd6)
 
