@@ -1,6 +1,5 @@
 ## ♟️ Chess Game
-
-
+![chess-game](https://github.com/Bild96/chess-game/assets/52472445/b803d767-6be4-4228-af90-a016b9d22243)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 ```bash
@@ -9,13 +8,16 @@
 ```
  cd chess-game
 ```
-## 🔥 This app features: 
-- Play web app Chess-game 
-
+ <img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge"><img src="https://img.shields.io/github/license/bild96/solana-explorer?style=for-the-badge&color=blue">
+ 
 ## 💡 Live demo
 [♟️ Chess Game](https://play-chessgame.surge.sh)
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
+![Screenshot from 2023-08-07 00-25-02](https://github.com/Bild96/chess-game/assets/52472445/54561fc6-ffec-4832-ad5e-047ab68557da)
+
+![Screenshot from 2023-08-07 00-25-27](https://github.com/Bild96/chess-game/assets/52472445/40d4614c-5813-44d0-ad35-f9f4c7364dd6)
+
 
 
 
@@ -30,8 +32,12 @@
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
  🏗️ [Major League Hacking © 2023](https://ghw.mlh.io/)
- 
- <a href="https://discord.gg/projectdiscovery"><img src="static/Join-Discord.png" width="380" alt="Join Discord"></a>
+
+ <h1 align="left">
+  <a href="https://discord.com/invite/mlh"><img src="static/Join-Discord.png" width="380" alt="Join Discord"></a>
+ </h1>
+
+  
  
 #### 🪙 Want to show support? Just spread the word and smash the ⭐ star button
 ###### Donate BTC: ***bc1qcgl0dnquzlflenpupeyktm68v4rjpls09ljvul***
